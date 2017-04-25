@@ -1,0 +1,6 @@
+D:\DRAGOS\exemple c#\students\students\bin\Debug\students.exe.config
+D:\DRAGOS\exemple c#\students\students\bin\Debug\students.exe
+D:\DRAGOS\exemple c#\students\students\bin\Debug\students.pdb
+D:\DRAGOS\exemple c#\students\students\obj\Debug\students.csprojResolveAssemblyReference.cache
+D:\DRAGOS\exemple c#\students\students\obj\Debug\students.exe
+D:\DRAGOS\exemple c#\students\students\obj\Debug\students.pdb
