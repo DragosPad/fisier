@@ -1,0 +1,6 @@
+D:\DRAGOS\exemple c#\fact\fact\bin\Debug\fact.exe.config
+D:\DRAGOS\exemple c#\fact\fact\bin\Debug\fact.exe
+D:\DRAGOS\exemple c#\fact\fact\bin\Debug\fact.pdb
+D:\DRAGOS\exemple c#\fact\fact\obj\Debug\fact.csprojResolveAssemblyReference.cache
+D:\DRAGOS\exemple c#\fact\fact\obj\Debug\fact.exe
+D:\DRAGOS\exemple c#\fact\fact\obj\Debug\fact.pdb
